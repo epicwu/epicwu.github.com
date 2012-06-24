@@ -5,6 +5,9 @@ description: 'A detailed look at how my Chrome extension, Philanthropist, works.
 keywords: 'Philanthropist, Amazon Associates'
 ---
 
+### 草草草 
+
+可以么，可以么
 ### Background
 
 First, some background. A few months ago, [The Film Vault](http://tfvpodcast.wordpress.com/), a podcast I listen to regularly, started to use [Amazon Associates](https://affiliate-program.amazon.com/) to generate revenue. In every episode, they'd have a short segment where they asked listeners to click through the Amazon referral link on their site before making any purchases on Amazon. With The Film Vault being a podcast I get much enjoyment out of, I wanted to do my part and comply with their request. However, I quickly realized just about every purchase I make on Amazon is impromptu. A typical scenario for me is to read about an interesting book, google said book, click the result for the Amazon page, and then make my purchase. When things happen that fast, it was very easy for me to forget to click through The Film Vault's referral link before making my purchase.

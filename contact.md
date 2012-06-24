@@ -8,7 +8,7 @@ keywords: 'Contact, EpicWu'
 
 ## Contact Me
 
-中文到底行不行
+<p>中文到底行不行</p>
 
 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 
