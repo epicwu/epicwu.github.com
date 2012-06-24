@@ -2,18 +2,16 @@
 layout: default
 type: contact 
 title: 'Contact'
-description: 'Contact Jake Harding.'
-keywords: 'Contact, Jake Harding'
+description: 'Contact WU Jun.'
+keywords: 'Contact, WU Jun'
 ---
 
 ## Contact Me
 
-Feel free to contact me through whatever medium you're comfortable with. I'll do my best to get back to you as soon as possible. Life can get pretty busy though, so if I fail to respond in a timely manner, you'll have to forgive me.
+如果你是漂亮又聪明伶俐的妹子，请大胆的联系我！如果你不是漂亮又伶俐的妹子，但是有漂亮又伶俐的亲妹妹/干妹妹/表妹/堂妹，也请大胆的联系我！
 
-Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
+Email: [<img src='{{ site.IMG_PATH }}/about_me.png' />](mailto:{{ site.author.email }})
 
-LinkedIn: [Jake Harding](http://www.linkedin.com/pub/jacob-harding/14/177/121)
-
-Twitter: [@{{ site.author.twitter }}](https://twitter.com/#!/{{ site.author.twitter }})
+新浪微博: [@{{ site.author.sina }}](https://weibo.com/#!/{{ site.author.twitter }})
 
 GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
