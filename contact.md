@@ -10,8 +10,8 @@ keywords: 'Contact, WU Jun'
 
 如果你是漂亮又聪明伶俐的妹子，请大胆的联系我！如果你不是漂亮又伶俐的妹子，但是有漂亮又伶俐的亲妹妹/干妹妹/表妹/堂妹，也请大胆的联系我！
 
-Email: <img src='{{ site.IMG_PATH }}/about_me.png' />
+Email: <img src='gmail.png' />
 
-新浪微博: [@{{ site.author.sina }}](https://weibo.com/{{ site.author.twitter }})
+新浪微博: [@{{ site.author.sina }}](https://weibo.com/{{ site.author.sina }})
 
 GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
