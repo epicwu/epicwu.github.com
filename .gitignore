@@ -1,0 +1,11 @@
+_site/*
+_theme_packages/*
+
+.DS_Store
+*.swp
+
+node_modules
+public/js/*
+public/css/*
+!public/js/*.min.js
+!public/css/*.min.css

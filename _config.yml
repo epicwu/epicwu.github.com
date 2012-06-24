@@ -1,0 +1,21 @@
+exclude: ['grunt.js', 'package.json', 'node_modules']
+auto: true
+pygments: true
+
+production: true
+
+title: 'Jake Harding'
+author:
+  name: 'Jake Harding'
+  email: 'jacob.s.harding@gmail.com'
+  twitter: 'JakeHarding'
+  github: 'jharding'
+
+production_url: 'http://thejakeharding.com'
+
+disqus:
+  shortname: 'jakeharding'
+
+JS_PATH: '/public/js'
+CSS_PATH: '/public/style'
+IMG_PATH: '/public/img'
