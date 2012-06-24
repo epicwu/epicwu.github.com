@@ -5,17 +5,17 @@ pygments: true
 
 production: true
 
-title: 'Jake Harding'
+title: 'Epic Wu'
 author:
-  name: 'Jake Harding'
-  email: 'jacob.s.harding@gmail.com'
-  twitter: 'JakeHarding'
-  github: 'jharding'
+  name: 'WU Jun'
+  email: 'epicwu@gmail.com'
+  sina: 'EpicWU'
+  github: 'epicwu'
 
-production_url: 'http://thejakeharding.com'
+production_url: 'epicwu.github.com'
 
 disqus:
-  shortname: 'jakeharding'
+  shortname: 'epicwu'
 
 JS_PATH: '/public/js'
 CSS_PATH: '/public/style'
