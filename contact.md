@@ -12,6 +12,6 @@ keywords: 'Contact, WU Jun'
 
 Email: <img src='gmail.png' />
 
-新浪微博: [@{{ site.author.sina }}](https://weibo.com/{{ site.author.sina }})
+新浪微博: [@{{ site.author.sina }}](http://http://weibo.com/u/2803274630)
 
 GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
