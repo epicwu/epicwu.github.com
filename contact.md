@@ -8,7 +8,7 @@ keywords: 'Contact, EpicWu'
 
 ## Contact Me
 
-欢迎广大小学妹联系我。
+中文到底行不行
 
 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 
