@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: default
 type: contact 
 title: 'Contact'
@@ -8,7 +8,7 @@ keywords: 'Contact, EpicWu'
 
 ## Contact Me
 
-ÖĞÎÄµ½µ×ĞĞ²»ĞĞ
+ä¸­æ–‡åˆ°åº•è¡Œä¸è¡Œ
 
 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 
