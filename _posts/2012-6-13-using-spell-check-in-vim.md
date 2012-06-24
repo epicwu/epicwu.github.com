@@ -1,14 +1,12 @@
 ---
 layout: post
-title: 'Using Spell Check in Vim'
-description: 'A quick guide on how to use spell check in Vim.'
-keywords: 'Vim, spell, spell check, dropbox, spellfile'
+title: '中文试一试'
+description: '中文能用么'
+keywords: '中文，乱码，有木有'
 ---
 
-### Introduction
-
-Vim has been my editor of choice for almost 4 years and yet I'm still constantly learning about new features. A feature I've recently stumbled across is spell check and I recommend learning how to use it. Using spell check within Vim is a great way to ensure your comments are high quality and it's a killer feature if you do a lot of your writing in Vim like I do. The goal if this post is to provide a simple guide for getting started with spell check in Vim.
-
+### 难道搞定了么
+爽！！！
 ### Configuring Spell Check
 
 Before you start using spell check, you'll want to configure some options in your .vimrc.
