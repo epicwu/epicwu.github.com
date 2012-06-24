@@ -1,33 +1,22 @@
+exclude: ['grunt.js', 'package.json', 'node_modules']
+auto: true
 markdown: kramdown
 pygments: true
-safe: false
-permalink: /posts/:title.html
-exclude:
-  - README.md
 
-host: mytharcher.github.com
+production: true
 
-custom:
-    category:
-        thinking: 闭门思考
-        problems: 问题记录
-        knowledge: 知识经验
-    categories:
-      - name:  thinking
-        title: 闭门思考
+title: 'Jake Harding'
+author:
+  name: 'Jake Harding'
+  email: 'jacob.s.harding@gmail.com'
+  twitter: 'JakeHarding'
+  github: 'jharding'
 
-      - name:  problems
-        title: 问题记录
+production_url: 'http://thejakeharding.com'
 
-      - name:  knowledge
-        title: 知识经验
+disqus:
+  shortname: 'jakeharding'
 
-meta:
-    authors:
-      - name: mytharcher
-        email: mytharcher@gmail.com
-        gravatar: 1cd8c12591616d8c22aaa624f8c07834
-
-    gravatar:
-        base: http://www.gravatar.com/avatar/
-        param: ?s=
+JS_PATH: '/public/js'
+CSS_PATH: '/public/style'
+IMG_PATH: '/public/img'
