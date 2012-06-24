@@ -1,6 +1,5 @@
 ---
 layout: post
-category: tutorial
 title: 'Using Spell Check in Vim'
 description: 'A quick guide on how to use spell check in Vim.'
 keywords: 'Vim, spell, spell check, dropbox, spellfile'
