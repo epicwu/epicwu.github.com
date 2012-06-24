@@ -13,4 +13,6 @@ type: post
   </div>
   </article>
   
+{% if page.category == 'tutorial' %}
   {% include disqus.html %}
+{% endif %}

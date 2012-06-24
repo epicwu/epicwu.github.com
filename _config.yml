@@ -1,16 +1,17 @@
-﻿exclude: ['grunt.js', 'package.json', 'node_modules']
+exclude: ['grunt.js', 'package.json', 'node_modules']
 auto: true
-markdown: rdiscount
 pygments: true
+
 production: true
 
-title: 'Wu Jun'
+title: 'Jake Harding'
 author:
-  name: 'WU Jun'
-  email: 'epicwu@gmail.com'
-  github: 'epicwu'
+  name: 'Jake Harding'
+  email: 'jacob.s.harding@gmail.com'
+  twitter: 'JakeHarding'
+  github: 'jharding'
 
-production_url: 'http://epicwu.github.com'
+production_url: 'http://thejakeharding.com'
 
 disqus:
   shortname: 'jakeharding'
