@@ -7,6 +7,8 @@ keywords: 'thejakeharding.com, Jekyll, Bootstrap, RYB'
 
 ### Why I Built thejakeharding.com
 
+ÕæËûÂèµÄÂé·³°¡£¡£¡£¡£¡£¡£¡
+
 It's been a while since I've had a personal site/blog. I built a custom WordPress site for myself 4ish years ago when I was just getting started with web development, but after forgetting to renew my domain name (that was a bad decision, I want jakeharding.com back), I took the site down as it wasn't doing much for me. Fast-forward to today and I keep finding myself wanting to write about the side-projects I'm working on and different ideas I have. In order to scratch that itch, I needed somewhere I could blog and that's how thejakeharding.com came about.
 
 A big reason why I created thejakeharding.com is to [increase my luck surface area](http://www.codusoperandi.com/posts/increasing-your-luck-surface-area). I'm hoping that every once in a while I'll write a compelling blog post that will ring the bell on Hacker News. In my opinion, that's a great way for me to make new connections, promote my side-projects, and in general, just get my name out there. Ringing the bell on Hacker News won't be easy and I don't expect to do it often, if ever. I have nothing to lose though, so expect to see submissions from me on Hacker News every now and then.
