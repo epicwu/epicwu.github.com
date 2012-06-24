@@ -2,15 +2,14 @@
 layout: default
 type: blog
 title: 'Blog'
-description: 'Jake Harding has a site and a blog.'
-keywords: 'Jake Harding, Blog, Personal Site, Software, JavaScript, Node.js, Web Development'
+description: 'This blog belongs to epicwu.'
+keywords: 'Jun Wu, Blog, Personal Site'
 ---
 
 <h2>Blog</h2>
 
 <ul class='most-recent-posts unstyled'>
   {% for post in site.posts %}
-    {% if post.category != 'tutorial' %}
       <li>
         {% assign post_title = post.title %}
         {% assign post_date = post.date %}
