@@ -1,17 +1,17 @@
 ---
 layout: post
 category: tutorial
-title: 'Ò»Ğ©ÓĞÓÃµÄÍøÕ¾'
-description: 'µç×ÓÊéµÈµÈ'
+title: 'ä¸€äº›æœ‰ç”¨çš„ç½‘ç«™'
+description: 'ç”µå­ä¹¦ç­‰ç­‰'
 keywords: 'websites, e-book'
 ---
-###µç×ÓÊéÏÂÔØ
+###ç”µå­ä¹¦ä¸‹è½½
 
 [libgen](http://libgen.info/)
 
 [bookfinder](http://en.bookfi.org/)
 
-###RÓïÑÔ×÷Í¼
+###Rè¯­è¨€ä½œå›¾
 
 http://gallery.r-enthusiasts.com/
 
