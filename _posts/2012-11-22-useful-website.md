@@ -16,3 +16,7 @@ keywords: 'websites, e-book'
 http://gallery.r-enthusiasts.com/
 
 http://www.cnblogs.com/youxilua/archive/2012/01/12/2320455.html
+
+###配置github+jekyll
+
+http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/
